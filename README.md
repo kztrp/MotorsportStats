@@ -17,7 +17,17 @@ Project currently consists of three notebooks:
 >  * <b>Indycar 2022</b> - imports data about 2022 Indycar season from .csv file and calculate some statistics. It involves calculating championship standings, position plots, race by race standings plot and boxplot which contains distribution of race positions of top drivers.
 
 ## Preview Images:
+Following image depicts final dataframe containing Indycar Series standings.
 
+<img src="https://github.com/kztrp/MotorsportStats/blob/main/exported_images/Indycar 2022 Standings.png" width="750" height="407" />
+
+Race to title image depicts how many points top drivers scored in the course of the season and how general classification was changing during these events.
+
+<img src="https://github.com/kztrp/MotorsportStats/blob/main/exported_images/Race%20to%20title.png" width="750" height="750" />
+
+Race positions box plot shows how distributed were race positions scored by top drivers.
+
+<img src="https://github.com/kztrp/MotorsportStats/blob/main/exported_images/Race%20places.png" width="750" height="562" />
 
 ## Prerequisites [for developers]
 
@@ -36,6 +46,5 @@ Then you can open specific notebook with:
 ```
 $ jupyter notebook filename.ipynb
 ```
-
 
 
