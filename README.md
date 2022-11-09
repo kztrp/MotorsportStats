@@ -16,6 +16,10 @@ Project currently consists of three notebooks:
 >  * <b>IRL ICS Stats</b> - imports data from .csv file and depicts several statistics about wins and pole positions on specific tracks,
 >  * <b>Indycar 2022</b> - imports data about 2022 Indycar season from .csv file and calculate some statistics. It involves calculating championship standings, position plots, race by race standings plot and boxplot which contains distribution of race positions of top drivers.
 
+### Notebook Live Interaction
+
+If you want to interact with these notebooks follow [THIS](https://mybinder.org/v2/gh/kztrp/MotorsportStats/HEAD) link. It uses Binder to create Docker image of repository.
+
 ## Preview Images:
 Following image depicts final dataframe containing Indycar Series standings.
 
